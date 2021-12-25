@@ -4,13 +4,13 @@
 <h3> its a simple program for reservation ticket from bus</h3>
 
  all data is:
- <div>
+
 - abilitis for manager:
 - adding ticket
 - adding bus
 - adding company
 - report from available bus with available seat and sold ticket base on type of bus(VIP or NORMAL)
- </div>
+
  
 &nbsp;
 
